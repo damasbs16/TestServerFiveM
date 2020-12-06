@@ -1,0 +1,6 @@
+Drugs and Effects
+Weed: Give Health Boost +Gives Half Armour!
+Coke: Gives Speed Boost!
+Meth: Full Health + Full Armour!
+Heroin: Lowers health to half + Full Armour!
+LSD/LSA: Heals you to full!
